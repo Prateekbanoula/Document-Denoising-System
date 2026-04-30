@@ -23,6 +23,15 @@ This project focuses on removing noise from document images using a deep learnin
 - NumPy
 - Streamlit
 
+## 📁 Dataset
+
+The dataset consists of paired noisy and clean document images.
+
+Due to size limitations, the dataset is not included in this repository.
+
+Users can generate or use their own dataset following the same structure:
+- train/ (noisy images)
+- train_cleaned/ (clean images)
 ## 📊 Output
 Input → ML Output → Enhanced Output
 
